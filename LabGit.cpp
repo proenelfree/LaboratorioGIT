@@ -1,5 +1,5 @@
 #include <iostream>
-#include <ftream>
+#include <fstream>
 #include <sstream>
 
 using namespace std;
@@ -17,9 +17,4 @@ int main () {
              cout<<"Archivo copiado correctamente"<<endl;
        }
 }
-                          
-                          
-                          
-                          
-    
-                          
+ 
